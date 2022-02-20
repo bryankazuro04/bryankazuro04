@@ -1,6 +1,10 @@
-I’m @bryankazuro04.
-I'm newbie programmer.
+# Hello 
+
+I’m **Bryan Kazuro**.\
+I'm **newbie programmer**.
 I want to learn any program language (such as Python, Java, HTML, php, css, etc).
+
+My portfolio [LinkedIn](https://www.linkedin.com/in/muhammad-alana-fauzan-34b72b220)
 
 
 <!---
