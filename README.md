@@ -1,8 +1,8 @@
 # Hello 
 
 I’m **Bryan Kazuro**.\
-I'm **newbie programmer**.
-I want to learn any program language (such as Python, Java, HTML, php, css, etc).
+I **newbie programmer**.
+I want to learn any program language (such as Python, Java, HTML, PHP, CSS, etc).
 
 My portfolio [LinkedIn](https://www.linkedin.com/in/muhammad-alana-fauzan-34b72b220)
 
