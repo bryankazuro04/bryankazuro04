@@ -1,11 +1,30 @@
-# Hello 
+## 👋 About Me  
+Hi there! I'm a **Web Developer** with a strong focus on **frontend development**, but I also have experience in **full-stack development**.  
+I have worked on various projects using **Laravel, HTML, CSS, and JavaScript (Vanilla & React.js)** to create clean, scalable, and responsive web applications.  
 
-I’m **Bryan Kazuro**.\
-I **newbie programmer**.
-I want to learn any program language (such as Python, Java, HTML, PHP, CSS, etc).
+I am passionate about **writing clean and maintainable code** while ensuring the best **user experience and performance** across different devices.  
 
-My portfolio [LinkedIn](https://www.linkedin.com/in/muhammad-alana-fauzan-34b72b220)
+---
 
+## 💻 Tech Stack & Skills  
+🚀 **Frontend:** HTML, CSS, JavaScript (Vanilla, React.js)  
+🛠 **Backend:** Laravel, RESTful APIs  
+📱 **Responsive Web Development & Performance Optimization**  
+🎯 **Clean Code, Readability, and Maintainability**  
+
+---
+
+## 🌱 What I'm Currently Learning  
+- Advanced React.js development  
+- Exploring Next.js and modern web performance techniques  
+
+---
+
+## 📌 Open for Collaboration  
+I'm always open to collaborating on **frontend projects, open-source contributions, or innovative web solutions**.  
+Let's build something great together!  
+
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/muhammad-alana-fauzan-34b72b220)
 
 <p align="left">
   <a href="https://github.com/bryankazuro04">
