@@ -7,7 +7,7 @@ I am passionate about **writing clean and maintainable code** while ensuring the
 ---
 
 ## 💻 Tech Stack & Skills  
-🚀 **Frontend:** HTML, CSS, JavaScript (ES6, React.js), Bootstrap, Tailwind 
+🚀 **Frontend:** HTML, CSS, JavaScript (ES6, React.js), Bootstrap, Tailwind  
 🛠 **Backend:** Laravel, RESTful APIs  
 📱 **Responsive Web Development & Performance Optimization**  
 🎯 **Clean Code, Readability, and Maintainability**  
